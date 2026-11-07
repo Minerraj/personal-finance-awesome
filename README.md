@@ -68,6 +68,7 @@
 1. [FIREnomics](https://www.firenomics.com) - practical FIRE guides grounded in math: savings rate, index funds, the 4% rule and its failure points, withdrawal strategy
 1. [ZeroToInvest](https://zerotoinvest.com/de/) - Free, ad-free German-language course on investing and stock markets, covering more than 100 lessons plus interactive calculators.
 1. [MoneyNest](https://getmoneynest.com) - personal finance guides and free calculators for budgeting, saving, investing, retirement, debt payoff and tax; no sign-up
+1. [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) - open-source toolkit of 66 film styles for coding agents (including a data-storytelling chart style) for turning a money lesson, such as compound interest or the cost of starting late, into a short narrated explainer video made entirely in code; MIT licensed
 
 ## Private market investing (only for accredited investors)
 
